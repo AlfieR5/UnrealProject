@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/mhv22uku/Documents/Unreal/MyProject3/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/mhv22uku/Documents/Unreal/MyProject3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.uasset",
+				"C:/Users/mhv22uku/Documents/Unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/98/9L4K4DH29R40J4XBZU6MR3.uasset",
+				"C:/Users/mhv22uku/Documents/Unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/P4/6E6XO101VVVDJXRFQJ9N7N.uasset",
+				"C:/Users/mhv22uku/Documents/Unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/38/3RJQV8W1A4GSMC43UYE9AA.uasset",
+				"C:/Users/mhv22uku/Documents/Unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/OV/XKFZM133C8LZAD0DIF3MZJ.uasset"
+			]
+		}
+	]
+}
