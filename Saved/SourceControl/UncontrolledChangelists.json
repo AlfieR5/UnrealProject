@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/alfie/OneDrive/Documents/Unreal Projects/MyProject3/UnrealProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.uasset",
+				"C:/Users/alfie/OneDrive/Documents/Unreal Projects/MyProject3/UnrealProject/Content/Characters/Mannequins/Animations/SwordSlash.uasset",
+				"C:/Users/alfie/OneDrive/Documents/Unreal Projects/MyProject3/UnrealProject/Content/Characters/Mannequins/Animations/Death.uasset",
+				"C:/Users/alfie/OneDrive/Documents/Unreal Projects/MyProject3/UnrealProject/Content/Characters/Mannequins/Animations/HitReact.uasset",
+				"C:/Users/alfie/OneDrive/Documents/Unreal Projects/MyProject3/UnrealProject/Content/Characters/Mannequins/Animations/Death_Montage.uasset",
+				"C:/Users/alfie/OneDrive/Documents/Unreal Projects/MyProject3/UnrealProject/Content/Characters/Mannequins/Animations/HitReact_Montage.uasset",
+				"C:/Users/alfie/OneDrive/Documents/Unreal Projects/MyProject3/UnrealProject/Content/Characters/Mannequins/Animations/SwordSlash_Montage.uasset",
 				"C:/Users/mhv22uku/Documents/Unreal/MyProject3/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"C:/Users/mhv22uku/Documents/Unreal/MyProject3/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Child.uasset",
 				"C:/Users/mhv22uku/Documents/Unreal/MyProject3/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/98/9L4K4DH29R40J4XBZU6MR3.uasset",
